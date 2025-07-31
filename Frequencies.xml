@@ -28,6 +28,15 @@
     <FilterBandwidth>50</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Radio asema</Name>
+    <GroupName>Medium wave</GroupName>
+    <Frequency>1413500</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6251</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Medium wave</Name>
     <GroupName>Medium wave</GroupName>
@@ -35,6 +44,24 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>160m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>1840000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>160m HAM band</Name>
+    <GroupName>160m ham band</GroupName>
+    <Frequency>1900000</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>1050</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -80,6 +107,15 @@
     <DetectorType>CW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>80m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>3573000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -134,6 +170,15 @@
     <DetectorType>RAW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2700</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Weather fax 1</Name>
+    <GroupName>Weather fax</GroupName>
+    <Frequency>3855000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6250</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -197,6 +242,24 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CW majakka</Name>
+    <GroupName>Short wave broadcast 4.96MHz</GroupName>
+    <Frequency>4995000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Joku CW majakka</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>4996000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -280,6 +343,24 @@
     <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Puhe majakka</Name>
+    <GroupName>Short wave broadcast 5.02MHz</GroupName>
+    <Frequency>5450000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Luettelee numeroita</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>5504000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>SW broadcast band 5</Name>
     <GroupName>SW broadcast band</GroupName>
@@ -296,6 +377,15 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2960</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>40m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>7074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -379,6 +469,15 @@
     <FilterBandwidth>7962</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Weather fax 2</Name>
+    <GroupName>Weather fax</GroupName>
+    <Frequency>7880000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Puhetta</Name>
     <GroupName>shortw fm</GroupName>
@@ -419,6 +518,15 @@
     <Name>30m ham band</Name>
     <GroupName>30m ham band</GroupName>
     <Frequency>10130000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>30m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>10136000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
@@ -487,6 +595,15 @@
     <FilterBandwidth>3510</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Weather fax 3</Name>
+    <GroupName>Weather fax</GroupName>
+    <Frequency>13882500</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6250</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>hfgcs mars</Name>
     <GroupName>Numero</GroupName>
@@ -494,6 +611,15 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2960</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>14074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -550,6 +676,33 @@
     <FilterBandwidth>3510</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>17m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>18100000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>15m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>21074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>13m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>24915000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>25340 kHz WFM</Name>
     <GroupName>shortw fm</GroupName>
@@ -557,6 +710,33 @@
     <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>10m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>28074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>6m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>50313000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>4m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>70154000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
@@ -635,18 +815,18 @@
     <Name>NOAA</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>137912500</Frequency>
-    <DetectorType>WFM</DetectorType>
+    <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>154150</FilterBandwidth>
+    <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>NOAA</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>137912500</Frequency>
-    <DetectorType>USB</DetectorType>
+    <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
+    <FilterBandwidth>154150</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -674,6 +854,15 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>FT8</Name>
+    <GroupName>2m Han band</GroupName>
+    <Frequency>144174000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -722,7 +911,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>Meri huvi L3</Name>
+    <Name>Meri Fish F1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -731,7 +920,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>Meri Fish F1</Name>
+    <Name>Meri huvi L3</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -793,6 +982,33 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Joku data</Name>
+    <GroupName>300MHz</GroupName>
+    <Frequency>390810000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Tupla data</Name>
+    <GroupName>300MHz</GroupName>
+    <Frequency>392790000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Jatkuva pulssi</Name>
+    <GroupName>433MHz</GroupName>
+    <Frequency>430752000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Pulssi2</Name>
     <GroupName>RTL</GroupName>
@@ -818,6 +1034,15 @@
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>ISM unknown</Name>
+    <GroupName>433MHz</GroupName>
+    <Frequency>433875000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -865,6 +1090,15 @@
     <FilterBandwidth>6000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Data lähetys</Name>
+    <GroupName>70cm Ham band</GroupName>
+    <Frequency>434900000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>AO-91 Uplink</Name>
     <GroupName>Satelite</GroupName>
@@ -872,5 +1106,50 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Joku data</Name>
+    <GroupName>450MHz</GroupName>
+    <Frequency>480000000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Joku data</Name>
+    <GroupName>700MHz</GroupName>
+    <Frequency>791300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Häiriö</Name>
+    <GroupName>800MHz</GroupName>
+    <Frequency>802300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Häiriön reuna</Name>
+    <GroupName>800MHz</GroupName>
+    <Frequency>811500000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Joku data</Name>
+    <GroupName>900MHz</GroupName>
+    <Frequency>936000000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
   </MemoryEntry>
 </ArrayOfMemoryEntry>
