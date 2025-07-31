@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Beta Russian navy time pulse</Name>
+    <GroupName>pulssi</GroupName>
+    <Frequency>25500</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>680</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Long Wave</Name>
+    <GroupName>Long Wave</GroupName>
+    <Frequency>216000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Long wave 229kHz</Name>
+    <GroupName>Long Wave</GroupName>
+    <Frequency>229980</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Medium wave</Name>
+    <GroupName>Medium wave</GroupName>
+    <Frequency>1555000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>160m ham band</Name>
+    <GroupName>160m ham band</GroupName>
+    <Frequency>1900040</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 2.4MHz</Name>
+    <GroupName>Short wave broadcast 2.4MHz</GroupName>
+    <Frequency>2385000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>The goose night</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>3244000</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>1059</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band</Name>
+    <GroupName>Short wave broadcast 3.3MHz</GroupName>
+    <Frequency>3300000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 3.3MHz</Name>
+    <GroupName>Short wave broadcast 3.3MHz</GroupName>
+    <Frequency>3325000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Puhetta 80m</Name>
+    <GroupName>80m Ham band</GroupName>
+    <Frequency>3669000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW ham band</Name>
+    <GroupName>SW ham band 3.7MHz</GroupName>
+    <Frequency>3700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>154150</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>80m Ham band</Name>
+    <GroupName>80m Ham band</GroupName>
+    <Frequency>3700000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>The pip night</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>3756000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>3807 kHz CW</Name>
+    <GroupName>SW ham band 3.7MHz</GroupName>
+    <Frequency>3807000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Yamal</Name>
+    <GroupName>Satelite</GroupName>
+    <Frequency>3820000</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2700</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 3.97MHz</Name>
+    <GroupName>Short wave broadcast 3.97MHz</GroupName>
+    <Frequency>3975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>The buzzer</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>4625000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs 1</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>4724000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Voimakas data 4.78MHz</Name>
+    <GroupName>Short wave broadcast 4.85MHz</GroupName>
+    <Frequency>4782000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 4.85MHz</Name>
+    <GroupName>Short wave broadcast 4.85MHz</GroupName>
+    <Frequency>4850000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 4.88MHz</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>4885000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 4.96MHz</Name>
+    <GroupName>Short wave broadcast 4.96MHz</GroupName>
+    <Frequency>4969000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Short wave broadcast 5.03MHz</Name>
+    <GroupName>Short wave broadcast 5.02MHz</GroupName>
+    <Frequency>5033000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4380</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Voimakas data 3</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5213240</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Voimakas data 2</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5227470</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Voimakas data</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5244000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Kaksi viivaa</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5342000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Narrow 2</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5357300</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Narrow</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5358080</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>60m ham band</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5360000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Morse 2 side lobe</Name>
+    <GroupName>60m ham band</GroupName>
+    <Frequency>5431000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 5</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>6055000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>1590</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>6 100 kHz AM</Name>
+    <GroupName>Musiikkia</GroupName>
+    <Frequency>6100000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2960</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 123</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7100200</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>40m ham band</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7102300</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Puhetta</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7169600</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 124</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7250000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 125</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7300000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 6</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>7330000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>1590</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 125 eng</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7350000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 126</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7550000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9583</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 127</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7720000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>7962</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Puhetta</Name>
+    <GroupName>shortw fm</GroupName>
+    <Frequency>8956230</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs 2</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>8992000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 7</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>9655000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3518</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>RWM Moscow</Name>
+    <GroupName>pulssi</GroupName>
+    <Frequency>9996015</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>30m ham band</Name>
+    <GroupName>30m ham band</GroupName>
+    <Frequency>10130000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>radio kanava xyz</Name>
+    <GroupName>30m ham band</GroupName>
+    <Frequency>10405000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8270</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>laajakaista</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>10425000</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>22415</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 11kHz eng</Name>
+    <GroupName>Radio asema</GroupName>
+    <Frequency>11150000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>15790</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs 3</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>11175000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs canada relay</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>11232000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 8</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>11856600</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3510</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 9</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>13757700</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3510</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs mars</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>13925000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2960</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema ranska</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14085000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Radio asema 20m 2</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14135000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>20m ham band</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14220000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Voimakas data 20m</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14259000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4385</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>hfgcs 4</Name>
+    <GroupName>Numero</GroupName>
+    <Frequency>15016000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2960</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>SW broadcast band 10</Name>
+    <GroupName>SW broadcast band</GroupName>
+    <Frequency>15340000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3510</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>25340 kHz WFM</Name>
+    <GroupName>shortw fm</GroupName>
+    <Frequency>25340000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>YLESUOMI</Name>
+    <GroupName>YLE</GroupName>
+    <Frequency>94000000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>154150</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI-VANTAA ATIS</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>114200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI GROUND Ground Control</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>118120000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI TOWER Tower</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>118600000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI RADAR Approach:</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>119100000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI ARRIVAL Arrival</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>119900000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>HELSINKI APRON Ramp/Taxi Control</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>121670000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>puhe</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>122823000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA</Name>
+    <GroupName>Satelite</GroupName>
+    <Frequency>137912500</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>154150</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA</Name>
+    <GroupName>Satelite</GroupName>
+    <Frequency>137912500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>138,600 MHz AM</Name>
+    <GroupName>Ruska</GroupName>
+    <Frequency>138600000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>139,200 MHz AM</Name>
+    <GroupName>Ruska</GroupName>
+    <Frequency>139200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>140,700 MHz AM</Name>
+    <GroupName>Ruska</GroupName>
+    <Frequency>140700000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Arps</Name>
+    <GroupName>2m Han band</GroupName>
+    <Frequency>144800000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>11200</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>2m Han band 145MHz</Name>
+    <GroupName>2m Han band</GroupName>
+    <Frequency>145000000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3760</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>AO-91 Downlink</Name>
+    <GroupName>Satelite</GroupName>
+    <Frequency>145960000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri huvi L1</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155500000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri huvi L2</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155525000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri huvi L3</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155625000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri Fish F1</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155625000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri fish F2</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155775000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri fish F3</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>155825000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri joku viesti nakynyt</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>156525000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri kutsu</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>156800000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri AIS 1</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>161975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Meri AIS 2</Name>
+    <GroupName>Meri</GroupName>
+    <Frequency>162025000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Pulssi2</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>433835500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>pulssi1 VT450-TH</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>433846200</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Pulssi3</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>433856700</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Pulssi 433,920</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>433920000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Pulssi TPMS</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>433945000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>4130</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>70cm Ham band 434MHz</Name>
+    <GroupName>70cm Ham band</GroupName>
+    <Frequency>434000000</Frequency>
+    <DetectorType>RAW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>1050</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>pulssi4</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>434038200</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3471</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>pulssi morse</Name>
+    <GroupName>RTL</GroupName>
+    <Frequency>434525000</Frequency>
+    <DetectorType>DSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>AO-91 Uplink</Name>
+    <GroupName>Satelite</GroupName>
+    <Frequency>435250000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10030</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>
