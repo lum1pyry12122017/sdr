@@ -46,7 +46,7 @@
     <FilterBandwidth>4380</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
+    <IsFavourite>true</IsFavourite>
     <Name>160m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>1840000</Frequency>
@@ -116,6 +116,15 @@
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>puhetta</Name>
+    <GroupName>80m Ham band</GroupName>
+    <Frequency>3661500</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -406,6 +415,15 @@
     <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Region 1 Emergency Centre</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7110000</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Puhetta</Name>
     <GroupName>40m ham band</GroupName>
@@ -619,34 +637,25 @@
     <Frequency>14074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
+    <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema ranska</Name>
+    <IsFavourite>false</IsFavourite>
+    <Name>FT8 20m</Name>
     <GroupName>20m ham band</GroupName>
-    <Frequency>14085000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 20m 2</Name>
-    <GroupName>20m ham band</GroupName>
-    <Frequency>14135000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>20m ham band</Name>
-    <GroupName>20m ham band</GroupName>
-    <Frequency>14220000</Frequency>
+    <Frequency>14074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Beacons exclusively</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14100000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -656,6 +665,15 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>4385</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>QRP</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14285000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -677,18 +695,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>17m FT8</Name>
+    <Name>15m FT8</Name>
     <GroupName>FT8</GroupName>
-    <Frequency>18100000</Frequency>
+    <Frequency>21074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>15m FT8</Name>
-    <GroupName>FT8</GroupName>
-    <Frequency>21074000</Frequency>
+    <Name>Beacons exclusively</Name>
+    <GroupName>15m ham band</GroupName>
+    <Frequency>21150000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>15m ham band center</Name>
+    <GroupName>15m ham band</GroupName>
+    <Frequency>21219960</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
@@ -884,6 +911,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>TarpereWide repeater</Name>
+    <GroupName>2m Han band</GroupName>
+    <Frequency>145750000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>AO-91 Downlink</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>145960000</Frequency>
@@ -911,7 +947,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>Meri Fish F1</Name>
+    <Name>Meri huvi L3</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -920,7 +956,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
-    <Name>Meri huvi L3</Name>
+    <Name>Meri Fish F1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -1091,12 +1127,21 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Data lähetys</Name>
+    <Name>TreCityRepeater</Name>
     <GroupName>70cm Ham band</GroupName>
-    <Frequency>434900000</Frequency>
-    <DetectorType>USB</DetectorType>
+    <Frequency>434850000</Frequency>
+    <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Hervanta repeater</Name>
+    <GroupName>70cm Ham band</GroupName>
+    <Frequency>434950000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
