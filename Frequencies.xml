@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Beta Russian navy time pulse</Name>
     <GroupName>pulssi</GroupName>
     <Frequency>25500</Frequency>
@@ -10,7 +10,7 @@
     <FilterBandwidth>680</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Long Wave</Name>
     <GroupName>Long Wave</GroupName>
     <Frequency>216000</Frequency>
@@ -19,7 +19,7 @@
     <FilterBandwidth>4380</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Long wave 229kHz</Name>
     <GroupName>Long Wave</GroupName>
     <Frequency>229980</Frequency>
@@ -37,7 +37,7 @@
     <FilterBandwidth>6251</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Medium wave</Name>
     <GroupName>Medium wave</GroupName>
     <Frequency>1555000</Frequency>
@@ -55,7 +55,7 @@
     <FilterBandwidth>3100</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>160m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>1840000</Frequency>
@@ -73,7 +73,7 @@
     <FilterBandwidth>1050</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Short wave broadcast 2.4MHz</Name>
     <GroupName>Short wave broadcast 2.4MHz</GroupName>
     <Frequency>2385000</Frequency>
@@ -91,7 +91,7 @@
     <FilterBandwidth>1059</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band</Name>
     <GroupName>Short wave broadcast 3.3MHz</GroupName>
     <Frequency>3300000</Frequency>
@@ -145,7 +145,7 @@
     <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW ham band</Name>
     <GroupName>SW ham band 3.7MHz</GroupName>
     <Frequency>3700000</Frequency>
@@ -172,7 +172,7 @@
     <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>3807 kHz CW</Name>
     <GroupName>SW ham band 3.7MHz</GroupName>
     <Frequency>3807000</Frequency>
@@ -181,7 +181,7 @@
     <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Yamal</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>3820000</Frequency>
@@ -199,7 +199,7 @@
     <FilterBandwidth>6250</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Short wave broadcast 3.97MHz</Name>
     <GroupName>Short wave broadcast 3.97MHz</GroupName>
     <Frequency>3975000</Frequency>
@@ -226,7 +226,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Voimakas data 4.78MHz</Name>
     <GroupName>Short wave broadcast 4.85MHz</GroupName>
     <Frequency>4782000</Frequency>
@@ -235,7 +235,7 @@
     <FilterBandwidth>4380</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Short wave broadcast 4.85MHz</Name>
     <GroupName>Short wave broadcast 4.85MHz</GroupName>
     <Frequency>4850000</Frequency>
@@ -253,7 +253,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Short wave broadcast 4.96MHz</Name>
     <GroupName>Short wave broadcast 4.96MHz</GroupName>
     <Frequency>4969000</Frequency>
@@ -280,7 +280,7 @@
     <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Short wave broadcast 5.03MHz</Name>
     <GroupName>Short wave broadcast 5.02MHz</GroupName>
     <Frequency>5033000</Frequency>
@@ -289,7 +289,7 @@
     <FilterBandwidth>4380</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Voimakas data 3</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5213240</Frequency>
@@ -298,7 +298,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Voimakas data 2</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5227470</Frequency>
@@ -307,7 +307,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Voimakas data</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5244000</Frequency>
@@ -316,7 +316,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Kaksi viivaa</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5342000</Frequency>
@@ -325,7 +325,7 @@
     <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Narrow 2</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5357300</Frequency>
@@ -334,7 +334,7 @@
     <FilterBandwidth>50</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Narrow</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5358080</Frequency>
@@ -352,7 +352,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Morse 2 side lobe</Name>
     <GroupName>60m ham band</GroupName>
     <Frequency>5431000</Frequency>
@@ -379,7 +379,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 5</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>6055000</Frequency>
@@ -388,7 +388,7 @@
     <FilterBandwidth>1590</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>6 100 kHz AM</Name>
     <GroupName>Musiikkia</GroupName>
     <Frequency>6100000</Frequency>
@@ -460,7 +460,7 @@
     <FilterBandwidth>2760</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 6</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>7330000</Frequency>
@@ -478,7 +478,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Puhetta</Name>
     <GroupName>shortw fm</GroupName>
     <Frequency>8956230</Frequency>
@@ -496,7 +496,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 7</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>9655000</Frequency>
@@ -559,7 +559,7 @@
     <FilterBandwidth>3100</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>radio kanava xyz</Name>
     <GroupName>30m ham band</GroupName>
     <Frequency>10405000</Frequency>
@@ -568,7 +568,7 @@
     <FilterBandwidth>8270</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>laajakaista</Name>
     <GroupName>Misc</GroupName>
     <Frequency>10425000</Frequency>
@@ -577,7 +577,7 @@
     <FilterBandwidth>22415</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Radio asema 11kHz eng</Name>
     <GroupName>Radio asema</GroupName>
     <Frequency>11150000</Frequency>
@@ -604,7 +604,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 8</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>11856600</Frequency>
@@ -613,7 +613,7 @@
     <FilterBandwidth>3510</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 9</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>13757700</Frequency>
@@ -694,7 +694,7 @@
     <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Voimakas data 20m</Name>
     <GroupName>20m ham band</GroupName>
     <Frequency>14259000</Frequency>
@@ -730,7 +730,7 @@
     <FilterBandwidth>2960</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>SW broadcast band 10</Name>
     <GroupName>SW broadcast band</GroupName>
     <Frequency>15340000</Frequency>
@@ -757,7 +757,7 @@
     <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>15m ham band center</Name>
     <GroupName>15m ham band</GroupName>
     <Frequency>21219960</Frequency>
@@ -775,7 +775,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>25340 kHz WFM</Name>
     <GroupName>shortw fm</GroupName>
     <Frequency>25340000</Frequency>
@@ -838,7 +838,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>HELSINKI GROUND Ground Control</Name>
     <GroupName>Air</GroupName>
     <Frequency>118120000</Frequency>
@@ -847,7 +847,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>HELSINKI TOWER Tower</Name>
     <GroupName>Air</GroupName>
     <Frequency>118600000</Frequency>
@@ -856,7 +856,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>HELSINKI RADAR Approach:</Name>
     <GroupName>Air</GroupName>
     <Frequency>119100000</Frequency>
@@ -865,7 +865,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>HELSINKI ARRIVAL Arrival</Name>
     <GroupName>Air</GroupName>
     <Frequency>119900000</Frequency>
@@ -874,7 +874,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>HELSINKI APRON Ramp/Taxi Control</Name>
     <GroupName>Air</GroupName>
     <Frequency>121670000</Frequency>
@@ -883,7 +883,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>puhe</Name>
     <GroupName>Air</GroupName>
     <Frequency>122823000</Frequency>
@@ -892,7 +892,7 @@
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>NOAA</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>137912500</Frequency>
@@ -901,7 +901,7 @@
     <FilterBandwidth>3470</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>NOAA</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>137912500</Frequency>
@@ -910,7 +910,7 @@
     <FilterBandwidth>154150</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>138,600 MHz AM</Name>
     <GroupName>Ruska</GroupName>
     <Frequency>138600000</Frequency>
@@ -919,7 +919,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>139,200 MHz AM</Name>
     <GroupName>Ruska</GroupName>
     <Frequency>139200000</Frequency>
@@ -928,7 +928,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>140,700 MHz AM</Name>
     <GroupName>Ruska</GroupName>
     <Frequency>140700000</Frequency>
@@ -946,7 +946,7 @@
     <FilterBandwidth>5000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Arps</Name>
     <GroupName>2m Han band</GroupName>
     <Frequency>144800000</Frequency>
@@ -955,7 +955,7 @@
     <FilterBandwidth>11200</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>2m Han band 145MHz</Name>
     <GroupName>2m Han band</GroupName>
     <Frequency>145000000</Frequency>
@@ -982,7 +982,7 @@
     <FilterBandwidth>8000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri huvi L1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155500000</Frequency>
@@ -991,7 +991,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri huvi L2</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155525000</Frequency>
@@ -1000,7 +1000,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri huvi L3</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
@@ -1009,7 +1009,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri Fish F1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
@@ -1018,7 +1018,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri fish F2</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155775000</Frequency>
@@ -1027,7 +1027,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri fish F3</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155825000</Frequency>
@@ -1036,7 +1036,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri joku viesti nakynyt</Name>
     <GroupName>Meri</GroupName>
     <Frequency>156525000</Frequency>
@@ -1054,7 +1054,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri AIS 1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>161975000</Frequency>
@@ -1063,7 +1063,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Meri AIS 2</Name>
     <GroupName>Meri</GroupName>
     <Frequency>162025000</Frequency>
@@ -1099,7 +1099,7 @@
     <FilterBandwidth>10030</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Pulssi2</Name>
     <GroupName>RTL</GroupName>
     <Frequency>433835500</Frequency>
@@ -1108,7 +1108,7 @@
     <FilterBandwidth>3471</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>pulssi1 VT450-TH</Name>
     <GroupName>RTL</GroupName>
     <Frequency>433846200</Frequency>
@@ -1117,7 +1117,7 @@
     <FilterBandwidth>3471</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Pulssi3</Name>
     <GroupName>RTL</GroupName>
     <Frequency>433856700</Frequency>
@@ -1135,7 +1135,7 @@
     <FilterBandwidth>5000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Pulssi 433,920</Name>
     <GroupName>RTL</GroupName>
     <Frequency>433920000</Frequency>
@@ -1144,7 +1144,7 @@
     <FilterBandwidth>3471</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>Pulssi TPMS</Name>
     <GroupName>RTL</GroupName>
     <Frequency>433945000</Frequency>
@@ -1162,7 +1162,7 @@
     <FilterBandwidth>1050</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>pulssi4</Name>
     <GroupName>RTL</GroupName>
     <Frequency>434038200</Frequency>
@@ -1171,7 +1171,7 @@
     <FilterBandwidth>3471</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>pulssi morse</Name>
     <GroupName>RTL</GroupName>
     <Frequency>434525000</Frequency>
@@ -1198,7 +1198,7 @@
     <FilterBandwidth>8000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
+    <IsFavourite>false</IsFavourite>
     <Name>AO-91 Uplink</Name>
     <GroupName>Satelite</GroupName>
     <Frequency>435250000</Frequency>
