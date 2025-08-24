@@ -1,123 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>160m wspr</Name>
-    <GroupName>wspr</GroupName>
-    <Frequency>1836000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>80m wspr</Name>
-    <GroupName>wspr</GroupName>
-    <Frequency>3568600</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>OHFF 2</Name>
-    <GroupName>OHFF</GroupName>
-    <Frequency>7019000</Frequency>
-    <DetectorType>LSB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2760</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>40m wspr</Name>
-    <GroupName>wspr</GroupName>
-    <Frequency>7038600</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>OHFF 1</Name>
-    <GroupName>OHFF</GroupName>
-    <Frequency>7142000</Frequency>
-    <DetectorType>LSB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2760</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>OHFF 5</Name>
-    <GroupName>OHFF</GroupName>
-    <Frequency>10125000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2800</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>30m FT8</Name>
-    <GroupName>FT8</GroupName>
-    <Frequency>10136000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>30m wspr</Name>
-    <GroupName>wspr</GroupName>
-    <Frequency>10138700</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>OHFF 4</Name>
-    <GroupName>OHFF</GroupName>
-    <Frequency>14046000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2800</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>20m FT8</Name>
-    <GroupName>FT8</GroupName>
-    <Frequency>14074000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>20m wspr</Name>
-    <GroupName>wspr</GroupName>
-    <Frequency>14095600</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>OHFF 3</Name>
-    <GroupName>OHFF</GroupName>
-    <Frequency>14269000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2800</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>10m FT8</Name>
-    <GroupName>FT8</GroupName>
-    <Frequency>28074000</Frequency>
-    <DetectorType>USB</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Beta Russian navy time pulse</Name>
     <GroupName>pulssi</GroupName>
@@ -163,6 +46,15 @@
     <FilterBandwidth>4380</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>160m wspr</Name>
+    <GroupName>wspr</GroupName>
+    <Frequency>1836000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>160m FT8</Name>
     <GroupName>FT8</GroupName>
@@ -179,15 +71,6 @@
     <DetectorType>RAW</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1050</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>160m ham band</Name>
-    <GroupName>160m ham band</GroupName>
-    <Frequency>1900040</Frequency>
-    <DetectorType>CW</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>300</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -227,6 +110,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>80m wspr</Name>
+    <GroupName>wspr</GroupName>
+    <Frequency>3568600</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>80m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>3573000</Frequency>
@@ -244,13 +136,13 @@
     <FilterBandwidth>3000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Puhetta 80m</Name>
+    <IsFavourite>false</IsFavourite>
+    <Name>Suomi tolppa</Name>
     <GroupName>80m Ham band</GroupName>
-    <Frequency>3669000</Frequency>
-    <DetectorType>USB</DetectorType>
+    <Frequency>3699000</Frequency>
+    <DetectorType>LSB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
+    <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -506,21 +398,39 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>OHFF 2</Name>
+    <GroupName>OHFF</GroupName>
+    <Frequency>7019000</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2760</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>40m wspr</Name>
+    <GroupName>wspr</GroupName>
+    <Frequency>7038600</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>40m Suomi puhe</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7060000</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>40m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>7074000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 123</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7100200</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -541,31 +451,13 @@
     <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Puhetta</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7169600</Frequency>
-    <DetectorType>USB</DetectorType>
+    <IsFavourite>false</IsFavourite>
+    <Name>OHFF 1</Name>
+    <GroupName>OHFF</GroupName>
+    <Frequency>7142000</Frequency>
+    <DetectorType>LSB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3470</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 124</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7250000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12400</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 125</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7300000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12400</FilterBandwidth>
+    <FilterBandwidth>2760</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -575,33 +467,6 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>1590</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 125 eng</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7350000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12400</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 126</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7550000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>9583</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Radio asema 127</Name>
-    <GroupName>40m ham band</GroupName>
-    <Frequency>7720000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>7962</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
@@ -649,6 +514,15 @@
     <FilterBandwidth>10</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>OHFF 5</Name>
+    <GroupName>OHFF</GroupName>
+    <Frequency>10125000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>30m ham band</Name>
     <GroupName>30m ham band</GroupName>
@@ -664,7 +538,25 @@
     <Frequency>10136000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>30m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>10136000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
     <FilterBandwidth>3470</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>30m wspr</Name>
+    <GroupName>wspr</GroupName>
+    <Frequency>10138700</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -749,6 +641,24 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>OHFF 4</Name>
+    <GroupName>OHFF</GroupName>
+    <Frequency>14046000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>14074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>20m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>14074000</Frequency>
@@ -767,6 +677,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>20m wspr</Name>
+    <GroupName>wspr</GroupName>
+    <Frequency>14095600</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Beacons exclusively</Name>
     <GroupName>20m ham band</GroupName>
     <Frequency>14100000</Frequency>
@@ -782,6 +701,15 @@
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>4385</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>OHFF 3</Name>
+    <GroupName>OHFF</GroupName>
+    <Frequency>14269000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
@@ -854,6 +782,15 @@
     <DetectorType>WFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>138660</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>10m FT8</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>28074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3100</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>

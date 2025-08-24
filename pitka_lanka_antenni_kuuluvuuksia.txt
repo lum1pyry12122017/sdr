@@ -1,0 +1,30 @@
+Sijainti:
+60.42, 24.99
+
+Kuuluvuudet
+pitkälanka antenni:
+-30dB asema 11.930MHz klo 21:45
+-25dB asema 6.415MHz klo 22:00
+-30dB asema 4.955MHz klo 22:15
+-30dB asema 3.955MHz klo 22:20
+-50dB CW 1.822MHz klo22:25 RST 474
+
+29.12.2024 
+UTC 12:35 30m FT8 gain 0 kykenee vastaanottamaan
+
+3.1.2025
+UTC 18:45 40m Gain 5 Puhe erottuu
+CQ DL3JH ... QRX
+WWA ZP7RAV PD PD 9GP9 ZP7
+
+TAMER UVA
+
+24.8.2025 
+klo 11:25 fin
+15m kuuluu
+20m kuuluu heikosti
+30m kuuluu heikosti
+40m kuuluu
+60m ei kuulu
+80m ei kuulu (spurreja)
+160m ei kuulu
