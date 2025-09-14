@@ -1,0 +1,157 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import glob, os
+
+# Path where results are stored
+RESULTS_DIR = os.path.expanduser(r"C:\sdr\rtl-sdr_test")
+
+def load_csvs(pattern):
+    """Load all CSVs matching pattern into dict of DataFrames."""
+    files = glob.glob(os.path.join(RESULTS_DIR, pattern))
+    dfs = {}
+    for f in files:
+        name = os.path.basename(f).replace(".csv", "")
+        try:
+            df = pd.read_csv(f, low_memory=False)
+            # Convert all numeric-like columns
+            for col in df.columns:
+                df[col] = pd.to_numeric(df[col], errors="coerce")
+            dfs[name] = df
+        except Exception as e:
+            print(f"⚠️ Could not read {f}: {e}")
+    return dfs
+
+# -------------------------------
+# 1) Sample Rate vs Lost Samples
+# -------------------------------
+dfs_rate = load_csvs("*_samplerate.csv")
+
+if dfs_rate:
+    plt.figure(figsize=(8,5))
+    for name, df in dfs_rate.items():
+        plt.plot(df["rate_hz"]/1e6, df["lost"], marker="o", label=name)
+    plt.xlabel("Sample Rate [MS/s]")
+    plt.ylabel("Lost Samples (count in 60s)")
+    plt.title("Max Stable Sample Rate Test")
+    plt.grid(True)
+    plt.legend()
+    plt.show()
+
+# -------------------------------
+# 2) PPM Drift Curves
+# -------------------------------
+dfs_ppm = load_csvs("*_ppm.csv")
+
+if dfs_ppm:
+    plt.figure(figsize=(8,5))
+    for name, df in dfs_ppm.items():
+        if "center_hz" in df.columns and "peak_bin_hz" in df.columns:
+            df = df.dropna(subset=["center_hz","peak_bin_hz"])
+            if not df.empty:
+                df["ppm"] = (df["peak_bin_hz"] - df["center_hz"]) / df["center_hz"] * 1e6
+                x = df["time_s"] if "time_s" in df.columns else range(len(df))
+                plt.plot(x, df["ppm"], marker=".", label=name)
+    plt.xlabel("Time [s]" if "time_s" in df.columns else "Sample Index")
+    plt.ylabel("Frequency Error [ppm]")
+    plt.title("PPM Drift Over Time")
+    plt.grid(True)
+    plt.legend()
+    plt.show()
+
+# -------------------------------
+# 3) SNR vs Time
+# -------------------------------
+dfs_snr = load_csvs("*_snr.csv")
+
+if dfs_snr:
+    plt.figure(figsize=(8,5))
+    for name, df in dfs_snr.items():
+        if "power_db" in df.columns:
+            noise = df["power_db"].rolling(10, min_periods=1).min()
+            signal = df["power_db"].rolling(10, min_periods=1).max()
+            snr = signal - noise
+            plt.plot(df["time_s"], snr, label=name)
+    plt.xlabel("Time [s]")
+    plt.ylabel("SNR [dB]")
+    plt.title("SNR vs Time")
+    plt.grid(True)
+    plt.legend()
+    plt.show()
+
+# -------------------------------
+# 4) Sweep plots (HF or VHF)
+# -------------------------------
+dfs_sweep = load_csvs("*_sweep.csv")
+
+if dfs_sweep:
+    for name, df in dfs_sweep.items():
+        # Expect rtl_power style: hz_low, hz_high, hz_step, samples, then many power bins
+        if {"hz_low","hz_high","hz_step"}.issubset(df.columns):
+            hz_low = df["hz_low"].iloc[0]
+            hz_high = df["hz_high"].iloc[0]
+            hz_step = df["hz_step"].iloc[0]
+
+            # Average spectrum over all rows
+            power_cols = df.columns[6:]  # power bins
+            spectrum = df[power_cols].astype(float).mean(axis=0).values
+            freqs = np.arange(hz_low, hz_high, hz_step)[:len(spectrum)]
+
+            plt.figure(figsize=(10,5))
+            plt.plot(freqs/1e6, spectrum, label=name)
+            plt.xlabel("Frequency [MHz]")
+            plt.ylabel("Power [dB]")
+            plt.title(f"Sweep Spectrum: {name}")
+            plt.grid(True)
+
+            # Mark spur peaks (local maxima above mean+3dB)
+            mean_lvl = np.mean(spectrum)
+            for i in range(1, len(spectrum)-1):
+                if spectrum[i] > spectrum[i-1] and spectrum[i] > spectrum[i+1] and spectrum[i] > mean_lvl+3:
+                    plt.plot(freqs[i]/1e6, spectrum[i], "rx")
+
+            plt.legend()
+            plt.show()
+
+# -------------------------------
+# 5) Summary Statistics
+# -------------------------------
+print("\n📊 RTL-SDR Comparison Summary\n")
+
+# Sample rate
+for name, df in dfs_rate.items():
+    stable_rates = df[df["lost"] == 0]["rate_hz"]
+    max_stable = stable_rates.max() if not stable_rates.empty else 0
+    print(f"[{name}] Max stable sample rate: {max_stable/1e6:.2f} MS/s")
+
+# PPM drift
+for name, df in dfs_ppm.items():
+    if "center_hz" in df.columns and "peak_bin_hz" in df.columns:
+        df = df.dropna(subset=["center_hz","peak_bin_hz"])
+        if not df.empty:
+            df["ppm"] = (df["peak_bin_hz"] - df["center_hz"]) / df["center_hz"] * 1e6
+            mean_ppm = df["ppm"].mean()
+            drift = df["ppm"].max() - df["ppm"].min()
+            print(f"[{name}] PPM mean: {mean_ppm:.2f}, drift span: {drift:.2f}")
+
+# SNR
+for name, df in dfs_snr.items():
+    if "power_db" in df.columns:
+        noise = df["power_db"].rolling(10, min_periods=1).min()
+        signal = df["power_db"].rolling(10, min_periods=1).max()
+        snr = (signal - noise).dropna()
+        if not snr.empty:
+            print(f"[{name}] Avg SNR: {snr.mean():.1f} dB, Peak SNR: {snr.max():.1f} dB")
+
+# Sweep
+for name, df in dfs_sweep.items():
+    if {"hz_low","hz_high","hz_step"}.issubset(df.columns):
+        hz_low = df["hz_low"].iloc[0]
+        hz_high = df["hz_high"].iloc[0]
+        hz_step = df["hz_step"].iloc[0]
+        power_cols = df.columns[6:]
+        spectrum = df[power_cols].astype(float).mean(axis=0).values
+        mean_lvl = np.mean(spectrum)
+        spur_lvl = np.max(spectrum)
+        spur_freq = hz_low + np.argmax(spectrum)*hz_step
+        print(f"[{name}] Sweep mean: {mean_lvl:.1f} dB, strongest spur: {spur_lvl:.1f} dB @ {spur_freq/1e6:.3f} MHz")
