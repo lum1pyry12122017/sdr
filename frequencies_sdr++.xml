@@ -1,0 +1,771 @@
+{
+	"bookmarkDisplayMode": 1,
+	"lists": {
+		"15m ham band": {
+			"bookmarks": {
+				"15m beacons exclusively": {
+					"bandwidth": 2400.0,
+					"frequency": 21150000.0,
+					"mode": 4
+				},
+				"15m ham band center": {
+					"bandwidth": 3470.0,
+					"frequency": 21219960.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"160m ham band": {
+			"bookmarks": {
+				"160m HAM band": {
+					"bandwidth": 1050.0,
+					"frequency": 1900000.0,
+					"mode": 7
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"20m ham band": {
+			"bookmarks": {
+				"20m beacons exclusively": {
+					"bandwidth": 2400.0,
+					"frequency": 14100000.0,
+					"mode": 4
+				},
+				"20m QRP": {
+					"bandwidth": 2400.0,
+					"frequency": 14285000.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"2m HAM band": {
+			"bookmarks": {
+				"2m FT8": {
+					"bandwidth": 5000.0,
+					"frequency": 144174000.0,
+					"mode": 2
+				},
+				"2m arps": {
+					"bandwidth": 11200.0,
+					"frequency": 144800000.0,
+					"mode": 0
+				},
+				"2m center": {
+					"bandwidth": 3760.0,
+					"frequency": 145000000.0,
+					"mode": 0
+				},
+				"TarpereWide repeater": {
+					"bandwidth": 8000.0,
+					"frequency": 145750000.0,
+					"mode": 0
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"300MHz": {
+			"bookmarks": {
+				"Joku data": {
+					"bandwidth": 10030.0,
+					"frequency": 390810000.0,
+					"mode": 2
+				},
+				"Tupla data": {
+					"bandwidth": 10030.0,
+					"frequency": 392790000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"30m ham band": {
+			"bookmarks": {
+				"30m ham band": {
+					"bandwidth": 3470.0,
+					"frequency": 10130000.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"40m ham band": {
+			"bookmarks": {
+				"40m Suomi puhe": {
+					"bandwidth": 2400.0,
+					"frequency": 7060000.0,
+					"mode": 6
+				},
+				"40m ham band": {
+					"bandwidth": 2400.0,
+					"frequency": 7102300.0,
+					"mode": 6
+				},
+				"Region 1 Emergency Centre": {
+					"bandwidth": 2400.0,
+					"frequency": 7110000.0,
+					"mode": 6
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"433MHz": {
+			"bookmarks": {
+				"Jatkuva pulssi": {
+					"bandwidth": 10030.0,
+					"frequency": 430752000.0,
+					"mode": 2
+				},
+				"ISM unknown": {
+					"bandwidth": 5000.0,
+					"frequency": 433875000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"450MHz": {
+			"bookmarks": {
+				"Joku data": {
+					"bandwidth": 138660.0,
+					"frequency": 480000000.0,
+					"mode": 1
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"60m ham band": {
+			"bookmarks": {
+				"Voimakas data 3": {
+					"bandwidth": 3470.0,
+					"frequency": 5213240.0,
+					"mode": 4
+				},
+				"Voimakas data 2": {
+					"bandwidth": 3470.0,
+					"frequency": 5227470.0,
+					"mode": 4
+				},
+				"Voimakas data": {
+					"bandwidth": 3470.0,
+					"frequency": 5244000.0,
+					"mode": 4
+				},
+				"Kaksi viivaa": {
+					"bandwidth": 300.0,
+					"frequency": 5342000.0,
+					"mode": 5
+				},
+				"Narrow": {
+					"bandwidth": 50.0,
+					"frequency": 5358080.0,
+					"mode": 7
+				},
+				"60m ham band": {
+					"bandwidth": 3470.0,
+					"frequency": 5360000.0,
+					"mode": 4
+				},
+				"Morse 2 side lobe": {
+					"bandwidth": 300.0,
+					"frequency": 5431000.0,
+					"mode": 5
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"700MHz": {
+			"bookmarks": {
+				"Joku data": {
+					"bandwidth": 138660.0,
+					"frequency": 791300000.0,
+					"mode": 1
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"70cm Ham band": {
+			"bookmarks": {
+				"70cm center": {
+					"bandwidth": 1050.0,
+					"frequency": 434000000.0,
+					"mode": 7
+				},
+				"TreCityRepeater": {
+					"bandwidth": 8000.0,
+					"frequency": 434850000.0,
+					"mode": 0
+				},
+				"Hervanta repeater": {
+					"bandwidth": 8000.0,
+					"frequency": 434950000.0,
+					"mode": 0
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"800MHz": {
+			"bookmarks": {
+				"Häiriö": {
+					"bandwidth": 138660.0,
+					"frequency": 802300000.0,
+					"mode": 1
+				},
+				"Häiriön reuna": {
+					"bandwidth": 138660.0,
+					"frequency": 811500000.0,
+					"mode": 1
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"80m Ham band": {
+			"bookmarks": {
+				"puhetta": {
+					"bandwidth": 3000.0,
+					"frequency": 3661500.0,
+					"mode": 6
+				},
+				"Suomi tolppa": {
+					"bandwidth": 2400.0,
+					"frequency": 3699000.0,
+					"mode": 6
+				},
+				"80m Ham band": {
+					"bandwidth": 4380.0,
+					"frequency": 3700000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"900MHz": {
+			"bookmarks": {
+				"Joku data": {
+					"bandwidth": 138660.0,
+					"frequency": 936000000.0,
+					"mode": 1
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Air": {
+			"bookmarks": {
+				"EFHK ATIS": {
+					"bandwidth": 10030.0,
+					"frequency": 114200000.0,
+					"mode": 2
+				},
+				"EFHK Ground Control": {
+					"bandwidth": 10030.0,
+					"frequency": 118120000.0,
+					"mode": 2
+				},
+				"EFHK Tower": {
+					"bandwidth": 10030.0,
+					"frequency": 118600000.0,
+					"mode": 2
+				},
+				"EFHK RADAR Approach": {
+					"bandwidth": 10030.0,
+					"frequency": 119100000.0,
+					"mode": 2
+				},
+				"EFHK Arrival": {
+					"bandwidth": 10030.0,
+					"frequency": 119900000.0,
+					"mode": 2
+				},
+				"EFHK Ramp/Taxi Control": {
+					"bandwidth": 10030.0,
+					"frequency": 121670000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"FT8": {
+			"bookmarks": {
+				"160m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 1840000.0,
+					"mode": 4
+				},
+				"80m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 3573000.0,
+					"mode": 4
+				},
+				"40m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 7074000.0,
+					"mode": 4
+				},
+				"30m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 10136000.0,
+					"mode": 4
+				},
+				"20m FT8": {
+					"bandwidth": 3100.0,
+					"frequency": 14074000.0,
+					"mode": 4
+				},
+				"15m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 21074000.0,
+					"mode": 4
+				},
+				"13m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 24915000.0,
+					"mode": 4
+				},
+				"10m FT8": {
+					"bandwidth": 3100.0,
+					"frequency": 28074000.0,
+					"mode": 4
+				},
+				"6m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 50313000.0,
+					"mode": 4
+				},
+				"4m FT8": {
+					"bandwidth": 3470.0,
+					"frequency": 70154000.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Long Wave": {
+			"bookmarks": {
+				"Long Wave": {
+					"bandwidth": 4380.0,
+					"frequency": 216000.0,
+					"mode": 2
+				},
+				"Long wave 229kHz": {
+					"bandwidth": 50.0,
+					"frequency": 229980.0,
+					"mode": 7
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Medium wave": {
+			"bookmarks": {
+				"Radio asema": {
+					"bandwidth": 6251.0,
+					"frequency": 1413500.0,
+					"mode": 2
+				},
+				"Medium wave": {
+					"bandwidth": 4380.0,
+					"frequency": 1555000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Meri": {
+			"bookmarks": {
+				"Meri huvi L1": {
+					"bandwidth": 10030.0,
+					"frequency": 155500000.0,
+					"mode": 2
+				},
+				"Meri huvi L2": {
+					"bandwidth": 10030.0,
+					"frequency": 155525000.0,
+					"mode": 2
+				},
+				"Meri fish F1": {
+					"bandwidth": 10030.0,
+					"frequency": 155625000.0,
+					"mode": 2
+				},
+				"Meri fish F2": {
+					"bandwidth": 10030.0,
+					"frequency": 155775000.0,
+					"mode": 2
+				},
+				"Meri fish F3": {
+					"bandwidth": 10030.0,
+					"frequency": 155825000.0,
+					"mode": 2
+				},
+				"Meri kutsu": {
+					"bandwidth": 10030.0,
+					"frequency": 156800000.0,
+					"mode": 2
+				},
+				"Meri AIS 1": {
+					"bandwidth": 10030.0,
+					"frequency": 161975000.0,
+					"mode": 2
+				},
+				"Meri AIS 2": {
+					"bandwidth": 10030.0,
+					"frequency": 162025000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Misc": {
+			"bookmarks": {
+				"laajakaista": {
+					"bandwidth": 22415.0,
+					"frequency": 10425000.0,
+					"mode": 7
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Numero": {
+			"bookmarks": {
+				"The goose night": {
+					"bandwidth": 1059.0,
+					"frequency": 3244000.0,
+					"mode": 7
+				},
+				"The pip night": {
+					"bandwidth": 300.0,
+					"frequency": 3756000.0,
+					"mode": 5
+				},
+				"The buzzer": {
+					"bandwidth": 3470.0,
+					"frequency": 4625000.0,
+					"mode": 4
+				},
+				"hfgcs 1": {
+					"bandwidth": 3470.0,
+					"frequency": 4724000.0,
+					"mode": 4
+				},
+				"Luettelee numeroita": {
+					"bandwidth": 3470.0,
+					"frequency": 5504000.0,
+					"mode": 4
+				},
+				"hfgcs 2": {
+					"bandwidth": 3470.0,
+					"frequency": 8992000.0,
+					"mode": 4
+				},
+				"hfgcs 3": {
+					"bandwidth": 3470.0,
+					"frequency": 11175000.0,
+					"mode": 4
+				},
+				"hfgcs canada relay": {
+					"bandwidth": 3470.0,
+					"frequency": 11232000.0,
+					"mode": 4
+				},
+				"hfgcs mars": {
+					"bandwidth": 2960.0,
+					"frequency": 13925000.0,
+					"mode": 2
+				},
+				"hfgcs 4": {
+					"bandwidth": 2960.0,
+					"frequency": 15016000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"OHFF": {
+			"bookmarks": {
+				"OHFF 2": {
+					"bandwidth": 2760.0,
+					"frequency": 7019000.0,
+					"mode": 6
+				},
+				"OHFF 1": {
+					"bandwidth": 2760.0,
+					"frequency": 7142000.0,
+					"mode": 6
+				},
+				"OHFF 5": {
+					"bandwidth": 2800.0,
+					"frequency": 10125000.0,
+					"mode": 4
+				},
+				"OHFF 4": {
+					"bandwidth": 2800.0,
+					"frequency": 14046000.0,
+					"mode": 4
+				},
+				"OHFF 3": {
+					"bandwidth": 2800.0,
+					"frequency": 14269000.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"pulssi": {
+			"bookmarks": {
+				"Beta Russian navy time pulse": {
+					"bandwidth": 680.0,
+					"frequency": 25500.0,
+					"mode": 5
+				},
+				"RWM Moscow": {
+					"bandwidth": 10.0,
+					"frequency": 9996015.0,
+					"mode": 5
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Radio asema": {
+			"bookmarks": {
+				"Radio asema 11kHz eng": {
+					"bandwidth": 15790.0,
+					"frequency": 11150000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"RTL": {
+			"bookmarks": {
+				"Pulssi2": {
+					"bandwidth": 3471.0,
+					"frequency": 433835500.0,
+					"mode": 4
+				},
+				"pulssi1 VT450-TH": {
+					"bandwidth": 3471.0,
+					"frequency": 433846200.0,
+					"mode": 4
+				},
+				"Pulssi3": {
+					"bandwidth": 3471.0,
+					"frequency": 433856700.0,
+					"mode": 4
+				},
+				"Pulssi 433,920": {
+					"bandwidth": 3471.0,
+					"frequency": 433920000.0,
+					"mode": 4
+				},
+				"Pulssi TPMS": {
+					"bandwidth": 4130.0,
+					"frequency": 433945000.0,
+					"mode": 2
+				},
+				"pulssi4": {
+					"bandwidth": 3471.0,
+					"frequency": 434038200.0,
+					"mode": 4
+				},
+				"pulssi morse": {
+					"bandwidth": 6000.0,
+					"frequency": 434525000.0,
+					"mode": 3
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Ruska": {
+			"bookmarks": {
+				"138,600 MHz AM": {
+					"bandwidth": 10030.0,
+					"frequency": 138600000.0,
+					"mode": 2
+				},
+				"139,200 MHz AM": {
+					"bandwidth": 10030.0,
+					"frequency": 139200000.0,
+					"mode": 2
+				},
+				"140,700 MHz AM": {
+					"bandwidth": 10030.0,
+					"frequency": 140700000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Satelite": {
+			"bookmarks": {
+				"Yamal": {
+					"bandwidth": 2700.0,
+					"frequency": 3820000.0,
+					"mode": 7
+				},
+				"NOAA": {
+					"bandwidth": 3470.0,
+					"frequency": 137912500.0,
+					"mode": 4
+				},
+				"AO-91 Downlink": {
+					"bandwidth": 8000.0,
+					"frequency": 145960000.0,
+					"mode": 0
+				},
+				"AO-91 Uplink": {
+					"bandwidth": 10030.0,
+					"frequency": 435250000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"SW broadcast band": {
+			"bookmarks": {
+				"SWB 2.4MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 2385000.0,
+					"mode": 2
+				},
+				"SWB 3.3MHz": {
+					"bandwidth": 300.0,
+					"frequency": 3300000.0,
+					"mode": 5
+				},
+				"SWB 3.97MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 3975000.0,
+					"mode": 2
+				},
+				"Voimakas data 4.78MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 4782000.0,
+					"mode": 2
+				},
+				"SWB 4.85MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 4850000.0,
+					"mode": 2
+				},
+				"SWB 4.88MHz": {
+					"bandwidth": 10030.0,
+					"frequency": 4885000.0,
+					"mode": 2
+				},
+				"SWB 4.96MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 4969000.0,
+					"mode": 2
+				},
+				"CW majakka": {
+					"bandwidth": 2400.0,
+					"frequency": 4995000.0,
+					"mode": 4
+				},
+				"SWB 5.03MHz": {
+					"bandwidth": 4380.0,
+					"frequency": 5033000.0,
+					"mode": 2
+				},
+				"Puhe majakka": {
+					"bandwidth": 2400.0,
+					"frequency": 5450000.0,
+					"mode": 4
+				},
+				"SWB 6MHz": {
+					"bandwidth": 1590.0,
+					"frequency": 6055000.0,
+					"mode": 2
+				},
+				"SWB 7MHz": {
+					"bandwidth": 1590.0,
+					"frequency": 7330000.0,
+					"mode": 2
+				},
+				"SWB 9MHz": {
+					"bandwidth": 3518.0,
+					"frequency": 9655000.0,
+					"mode": 2
+				},
+				"SWB 11MHz": {
+					"bandwidth": 3510.0,
+					"frequency": 11856600.0,
+					"mode": 2
+				},
+				"SWB 13MHz": {
+					"bandwidth": 3510.0,
+					"frequency": 13757700.0,
+					"mode": 2
+				},
+				"SWB 15MHz": {
+					"bandwidth": 3510.0,
+					"frequency": 15340000.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"Weather fax": {
+			"bookmarks": {
+				"Weather fax 1": {
+					"bandwidth": 6250.0,
+					"frequency": 3855000.0,
+					"mode": 2
+				},
+				"Weather fax 2": {
+					"bandwidth": 3470.0,
+					"frequency": 7880000.0,
+					"mode": 4
+				},
+				"Weather fax 3": {
+					"bandwidth": 6250.0,
+					"frequency": 13882500.0,
+					"mode": 2
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"wspr": {
+			"bookmarks": {
+				"160m wspr": {
+					"bandwidth": 3100.0,
+					"frequency": 1836000.0,
+					"mode": 4
+				},
+				"80m wspr": {
+					"bandwidth": 3100.0,
+					"frequency": 3568600.0,
+					"mode": 4
+				},
+				"40m wspr": {
+					"bandwidth": 3100.0,
+					"frequency": 7038600.0,
+					"mode": 4
+				},
+				"30m wspr": {
+					"bandwidth": 3100.0,
+					"frequency": 10138700.0,
+					"mode": 4
+				},
+				"20m wspr": {
+					"bandwidth": 3100.0,
+					"frequency": 14095600.0,
+					"mode": 4
+				}
+			},
+			"showOnWaterfall": true
+		},
+		"YLE": {
+			"bookmarks": {
+				"YLESUOMI": {
+					"bandwidth": 154150.0,
+					"frequency": 94000000.0,
+					"mode": 1
+				}
+			},
+			"showOnWaterfall": true
+		}
+	},
+	"selectedList": "15m ham band"
+}
