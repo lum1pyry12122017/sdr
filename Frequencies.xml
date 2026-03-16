@@ -371,6 +371,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Suomi puhe 2</Name>
+    <GroupName>40m ham band</GroupName>
+    <Frequency>7066000</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>40m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>7074000</Frequency>
@@ -569,6 +578,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>20m RTTY</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14070000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>20m FT8</Name>
     <GroupName>FT8</GroupName>
     <Frequency>14074000</Frequency>
@@ -578,18 +596,54 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>20m Packet</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14095000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>20m wspr</Name>
     <GroupName>wspr</GroupName>
     <Frequency>14095600</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>3100</FilterBandwidth>
+    <FilterBandwidth>2400</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>20m beacons exclusively</Name>
+    <Name>20m NCDXF beacons</Name>
     <GroupName>20m ham band</GroupName>
     <Frequency>14100000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m packet radio</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14112000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m SSTV</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14230000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m OHFF tolppa</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14244000</Frequency>
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2400</FilterBandwidth>
@@ -611,6 +665,24 @@
     <DetectorType>USB</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m AM calling</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14286000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>20m V-dipole center</Name>
+    <GroupName>20m ham band</GroupName>
+    <Frequency>14610000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3350</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>true</IsFavourite>
@@ -866,7 +938,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Meri huvi L3</Name>
+    <Name>Meri fish F1</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -875,7 +947,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Meri fish F1</Name>
+    <Name>Meri huvi L3</Name>
     <GroupName>Meri</GroupName>
     <Frequency>155625000</Frequency>
     <DetectorType>AM</DetectorType>
