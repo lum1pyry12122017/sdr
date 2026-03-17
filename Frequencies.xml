@@ -946,6 +946,15 @@
     <FilterBandwidth>2000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Turku EFTU</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>118300000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>HELSINKI TOWER Tower</Name>
     <GroupName>Air</GroupName>
@@ -1010,6 +1019,33 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Turku EFTU 5</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>120250000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Tampere EFTP</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>120250000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Tampere EFTU 3</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>120475000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>EPIRB COSTAS</Name>
     <GroupName>Air</GroupName>
     <Frequency>121500000</Frequency>
@@ -1037,6 +1073,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Tampere EFTP 2</Name>
+    <GroupName>70cm Ham band</GroupName>
+    <Frequency>124275000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Tampere ilmailuradio gnd</Name>
     <GroupName>Air</GroupName>
     <Frequency>124275000</Frequency>
@@ -1058,6 +1103,33 @@
     <Name>Tampere ilmailuradio APP</Name>
     <GroupName>Air</GroupName>
     <Frequency>126200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Pirkkala APP</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>126200000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Turku EFTU 2</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>130050000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Tampere atis</Name>
+    <GroupName>Air</GroupName>
+    <Frequency>133500000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2000</FilterBandwidth>
@@ -1172,21 +1244,21 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>TarpereWide repeater</Name>
-    <GroupName>2m Han band</GroupName>
-    <Frequency>145750000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
     <Name>Tampere Wide Area</Name>
     <GroupName>2m Han band</GroupName>
     <Frequency>145750000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>2000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>TarpereWide repeater</Name>
+    <GroupName>2m Han band</GroupName>
+    <Frequency>145750000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
@@ -1397,7 +1469,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>OH0RUB Jomala DMR</Name>
+    <Name>Tampere Tesoma DMR</Name>
     <GroupName>70cm Ham band</GroupName>
     <Frequency>434550000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -1406,7 +1478,7 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Tampere Tesoma DMR</Name>
+    <Name>OH0RUB Jomala DMR</Name>
     <GroupName>70cm Ham band</GroupName>
     <Frequency>434550000</Frequency>
     <DetectorType>AM</DetectorType>
@@ -1442,21 +1514,21 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Tampere City</Name>
-    <GroupName>70cm Ham band</GroupName>
-    <Frequency>434850000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>2000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
     <Name>TreCityRepeater</Name>
     <GroupName>70cm Ham band</GroupName>
     <Frequency>434850000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Tampere City</Name>
+    <GroupName>70cm Ham band</GroupName>
+    <Frequency>434850000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
