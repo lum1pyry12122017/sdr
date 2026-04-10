@@ -1,0 +1,15 @@
+WSJT-X 3.0.0
+Gridtracker 2.26045
+
+wsjtx asetukset:
+Band 20m
+RX: 1200Hz
+
+SDR# asetukset:
+Radio: USB 
+Radio bandwidth: 2900
+Source gain: 8
+Source bandwidth: 31,25kHz
+Audio: -5dB
+AGC: off
+IQ format: 8-bit
